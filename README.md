@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/doublehigh](https://github.com/doublehigh)
 
-- 💬 Ask me about **Html, Css and Tailwind**
+- 💬 Ask me about **Js and Php**
 
 - 📫 How to reach me **ibrahimishaq4real2021@gmail.com**
 
